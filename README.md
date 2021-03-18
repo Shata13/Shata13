@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shata13
+- 👋 Hi, I’m Shatakshi @Shata13
 - 👀 I’m a Computer Science Student.
 - 🌱 I’m currently learning new technologies in the field of Data Science,Machine Learning,AI and Cloud
 - 📫 This is my email id: shatakshim2@gmail.com
